@@ -1,0 +1,32 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.mdb
+
+# Release packages
+release/
+*.zip
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Unity / dumped game files
+Library/
+Temp/
+Logs/
+Il2CppAssemblies/
+Decompiled/
+DummyDll/
+BepInEx/
+MelonLoader/
+UserData/
+Mods/
+
+# OS
+.DS_Store
+Thumbs.db
